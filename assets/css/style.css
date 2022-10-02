@@ -1,0 +1,175 @@
+body {
+    background: #33CCCC;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    color: #000;
+}
+
+h1, h2, h2, h4, h5, h6 {
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    padding-top: 20px;
+    max-width: 1500px;
+    margin: 0 auto 20px;
+}
+
+.header__IKNT {
+    padding-left: 20px;
+}
+
+.header__logo {
+    font-size: 48px;
+    font-weight: 900;
+    color: #fff;
+    padding-top: 45px;
+    padding-left: 20px;
+
+}
+
+.header__inner {
+    display: flex;
+
+}
+
+.nav {
+    padding-top: 50px;
+    padding-left: 100px;
+    font-size: 27px;
+}
+
+.nav__link {
+    color: #000;
+    text-display: none;
+    vertical-align: top;
+    margin: 0 20px;
+}
+
+.news {
+    background: #009999;
+    height: 1000px;
+}
+
+.news_text_header {
+    font-size: 35px;
+    font-weight: 300;
+    padding-top: 75px;
+    padding-left: 100px;
+}
+
+.news_block {
+    height: 100%;
+    width: 1000px;
+}
+
+.discription__photo  {
+    background: #1D7373;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-weight: 200;
+    height: 650px;
+    width: 720px;
+    border-radius: 30px;
+}
+
+.me {
+    margin-left: 60px;
+    margin-top: 60px;
+    border-radius: 30px;
+}
+
+.text_under_photo {
+    padding-top: 60px;
+    font-weight: 300;
+}
+
+.news_text {
+    margin-left: 900px;
+    margin-top: -550px;
+}
+
+.first_p {
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.second_p {
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.third_p {
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.our_personal {
+    background: #1D7373;
+    height: 1500px;
+    width: 100%;
+}
+
+.personal_header {
+    margin-left: 1100px;
+    margin-top: 50px;
+    color: #fff;
+}
+
+.aidarov {
+    color: #fff;
+    margin-top: -350px;
+    margin-left: 110px;
+}
+.gorodilov {
+    color: #fff;
+    margin-left: 650px;
+    margin-top: 70px;
+}
+.ketova {
+    color: #ffffff;
+    margin-left: 1120px;
+    margin-top: -190px;
+}
+
+.text_about {
+    font-size: 35px;
+    font-weight: 500;
+    padding-top: 100px;
+    padding-left: 150px;
+}
+
+.description_about {
+    height: 360px;
+    width: 680px;
+    margin-left: 160px;
+}
+
+.text_about_us {
+    font-size: 25px;
+    font-weight: 200;
+}
+
+.university {
+    margin-left: 750px;
+    margin-top: -500px;
+}
+
+.vk {
+
+    margin-left: 40px;
+}
+
+.about_vk {
+    padding-top: 40px;
+    margin-left: 30px;
+}
+.link_about {
+    height: 110px;
+    width: 360px;
+    margin-left: 170px;
+    margin-top: -100px;
+}
